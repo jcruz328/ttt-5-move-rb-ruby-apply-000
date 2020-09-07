@@ -13,6 +13,6 @@ def input_to_index(user_input)
   user_int - 1
 end
 
-def move
+def move(board, fill, char)
   
 end
